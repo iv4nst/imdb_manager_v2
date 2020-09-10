@@ -25,4 +25,6 @@ You should download your own WATCHLIST.csv file from your IMDb account (for now*
 * Scroll all the way down and click ```Export this list```
 * Put the downloaded file inside the program directory
 
+#### Run the app via IMDb Watchlist Manager
+
 ** In the next versions this would not be needed.
