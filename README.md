@@ -1,6 +1,12 @@
-# IMDb Watchlist Manager V1
+# IMDb Watchlist Manager v2
 
 Automating the rating and deletion of movies from the IMDb watchlist.
+
+## Changes
+
+The app is now executable.
+
+#### Run the app via IMDb Watchlist Manager
 
 ## Requirements
 #### Packages:
@@ -25,6 +31,6 @@ You should download your own WATCHLIST.csv file from your IMDb account (for now*
 * Scroll all the way down and click ```Export this list```
 * Put the downloaded file inside the program directory
 
-#### Run the app via IMDb Watchlist Manager
-
 ** In the next versions this would not be needed.
+
+##### [Older version](https://github.com/iv4nst/imdb_manager_v1)
