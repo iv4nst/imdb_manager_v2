@@ -6,7 +6,7 @@ Automating the rating and deletion of movies from the IMDb watchlist.
 
 The app is now executable.
 
-A demo WATCHLIST.csv is included, but you should download your own so it can work properly.
+A demo WATCHLIST.csv is included, but you should download your own so it can work properly with your account.
 
 #### Run the app via IMDb Watchlist Manager
 
