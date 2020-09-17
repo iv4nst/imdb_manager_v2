@@ -35,4 +35,5 @@ You should download your own WATCHLIST.csv file from your IMDb account (for now*
 
 ** In the next versions this would not be needed.
 
-##### [Older version](https://github.com/iv4nst/imdb_manager_v1)
+## Older versions
+##### [IMDb Manager v1](https://github.com/iv4nst/imdb_manager_v1)
